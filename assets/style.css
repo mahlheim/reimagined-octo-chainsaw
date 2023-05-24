@@ -1,0 +1,36 @@
+* {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  }
+
+  .body {
+    background-color: rgb(253, 226, 230);
+  }
+
+  .header {
+    color: black;
+    background-color: rgb(247, 97, 122);
+    display: inline;
+    position: fixed;
+    text-align: center;
+  }
+
+  .section {
+    color:black; 
+    background-color: pink;
+    text-align: center;
+  }
+
+  .footer {
+    color: black;
+    background-color: rgb(247, 97, 122);
+    margin: auto;
+    text-align: center;
+  }
+
+  .image {
+    height: 1329.5px;
+    width: 2016px;
+    margin: auto;
+  }
+
+  
