@@ -12,6 +12,8 @@
     display: inline;
     position: fixed;
     text-align: center;
+    margin-left: 40%;
+    margin-right: auto;
   }
 
   .section {
